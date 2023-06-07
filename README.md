@@ -6,7 +6,8 @@ Project Theme:
 
 ## (1) Data Collection, Clean-up & Analysis 
 
- - Use R library “unvote” to gain data about UN General Assembly votes of each country starting from 1940s.  
+ - Use R library “unvotes” to gain data about UN General Assembly votes of each country starting from 1940s.  
+   -  https://github.com/dgrtwo/unvotes
  - Verify and add data using the UN digital library if necessary. 
 
 ## (2) Model Assumptions 
