@@ -6,9 +6,20 @@ Project Theme:
 
 ## (1) Data Collection, Clean-up & Analysis 
 
- - Use R library “unvotes” to gain data about UN General Assembly votes of each country starting from 1940s.  
-   -  https://github.com/dgrtwo/unvotes
- - Verify and add data using the UN digital library if necessary. 
+ - UN General Assembly votes of each country starting from 1940s. Data sourse:  
+   -  https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/12379
+   -  UNVotes-1.csv
+   -  Codebook.docx
+   -  Download date: 2023 June 10
+   -  Change the csv file to UTF-8 encoding and named UNVotes-UTF-8.csv
+ - COW country codes:
+   -  https://correlatesofwar.org/cow-country-codes/
+   -  COW-country-codes.csv
+   -  Download date: 2023 June 10
+   -  Read more at: https://rforpoliticalscience.com/2020/06/03/cow-codes/
+ - Data cleaning code:
+ - Cleaned Data:
+ - Cleaned Data Description:
 
 ## (2) Model Assumptions 
 
