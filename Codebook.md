@@ -1,19 +1,23 @@
 # A cleaned version of UN General Assembly vote data
 
-check original data and codebook from:
+check original data and codebook from:\
     https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/12379
 
 **Data range: 1991-2021**
 
 List of all column names:
 
-'date' 'year' 'rcid' 'resid' 'session'\
-'ccode' 'Country' 'Countryname' 'CountrynameCOW' 'vote'\
-'unres' 'yes' 'no' 'abstain' 'amend' 'para' 'importantvote'\
+```
+'date' 'year' 'rcid' 'resid' 'session'
+'ccode' 'Country' 'Countryname' 'CountrynameCOW' 'vote'
+'unres' 'yes' 'no' 'abstain' 'amend' 'para' 'importantvote'
 'me' 'nu' 'di' 'hr' 'co' 'ec'
+```
+
 
 
 Variables raw UNGA dataset
+
 rcid – roll call vote id RCID, can be matched with ICPSR id until 1985. Ids>9000 are the emergency special sessions not in the original ICPSR dataset. 
 
 Resid – New roll-call vote id, number is sequential within sessions (session + 3 digit sequential numve)
