@@ -54,11 +54,13 @@ check original data and codebook from:\
 `importantvote` - vote identified as important by U.S. State Department report Voting Practices in the United Nations.\
 &emsp;*NOTE: not available for all years*
 
-#### Issue codes: These are based on searches in descriptions. They have been subjected to a rudimentary visual check but they may not be 100% accurate
+#### Issue codes:
+
+These are based on searches in descriptions. They have been subjected to a rudimentary visual check but they may not be 100% accurate
 
 `me`: Votes relating to the Palestinian conflict\
 `nu`: Votes relating to nuclear weapons and nuclear material\
 `di`: Votes relating to arms control and disarmament\
 `hr`: Votes relating to human rights\
 `co`: Votes relating to colonialism\
-`ec`: Votes relating to (economic) development\
+`ec`: Votes relating to (economic) development
