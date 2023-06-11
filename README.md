@@ -19,7 +19,7 @@ Project Theme:
    -  Read more at: https://rforpoliticalscience.com/2020/06/03/cow-codes/
  - Data cleaning code: [DataCleaning.ipynb](https://github.com/LuckYuanZ/CountryRelationByUnVotes/blob/main/DataCleaning.ipynb)
  - Cleaned Data: UNVotes-Clean.csv (produced by above code)
- - Cleaned Data Description:
+ - Cleaned Data Description: [Codebook.md](https://github.com/LuckYuanZ/CountryRelationByUnVotes/blob/main/Codebook.md)
 
 ## (2) Model Assumptions 
 
