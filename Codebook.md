@@ -5,7 +5,7 @@ check original data and codebook from:\
 
 **Data range: 1991-2021**
 
-List of all column names:
+#### List of all column names:
 
 ```
 'date' 'year' 'rcid' 'resid' 'session'
@@ -13,6 +13,9 @@ List of all column names:
 'unres' 'yes' 'no' 'abstain' 'amend' 'para' 'importantvote'
 'me' 'nu' 'di' 'hr' 'co' 'ec'
 ```
+
+#### Details:
+
 'me' 'nu' 'di' 'hr' 'co' 'ec'
 
 `date` - date of vote
@@ -23,7 +26,8 @@ List of all column names:
 
 `resid` - new roll call vote id, number is sequential within sessions (`session` + 3 digit sequential numve)
 
-`session` - UN Session (1-73): Note that sessions typically run from September-December but there are typically some votes that take place in the following year
+`session` - UN Session (1-73)\
+*Note that sessions typically run from September-December but there are typically some votes that take place in the following year*
 
 `ccode` - COW country code
 
@@ -49,13 +53,14 @@ List of all column names:
 
 `para` - whether the vote was on a paragraph rather than an entire resolution
 
-`importantvote` - vote identified as important by U.S. State Department report Voting Practices in the United Nations. **NOTE: not available for all years**
+`importantvote` - vote identified as important by U.S. State Department report Voting Practices in the United Nations.\
+**NOTE: not available for all years**
 
-Issue codes: These are based on searches in descriptions. They have been subjected to a rudimentary visual check but they may not be 100% accurate
+##### Issue codes: These are based on searches in descriptions. They have been subjected to a rudimentary visual check but they may not be 100% accurate
 
-ME: Votes relating to the Palestinian conflict (19%)
-NU: Votes relating to nuclear weapons and nuclear material (13%)
-DI: Votes relating to arms control and disarmament (16%)
-CO: Votes relating to colonialism (18%)
-HR: Votes relating to human rights (17%)
-EC: Votes relating to (economic) development (9%)
+ME: Votes relating to the Palestinian conflict\
+NU: Votes relating to nuclear weapons and nuclear material\
+DI: Votes relating to arms control and disarmament\
+CO: Votes relating to colonialism\
+HR: Votes relating to human rights\
+EC: Votes relating to (economic) development\
