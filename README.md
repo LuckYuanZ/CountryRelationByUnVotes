@@ -17,8 +17,8 @@ Project Theme:
    -  COW-country-codes.csv
    -  Download date: 2023 June 10
    -  Read more at: https://rforpoliticalscience.com/2020/06/03/cow-codes/
- - Data cleaning code:
- - Cleaned Data:
+ - Data cleaning code: DataCleaning.ipynb
+ - Cleaned Data: UNVotes-Clean.csv (produced by above code)
  - Cleaned Data Description:
 
 ## (2) Model Assumptions 
