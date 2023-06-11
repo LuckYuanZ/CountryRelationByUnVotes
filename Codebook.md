@@ -51,7 +51,7 @@ check original data and codebook from:\
 
 `para` - whether the vote was on a paragraph rather than an entire resolution
 
-`importantvote` - vote identified as important by U.S. State Department report Voting Practices in the United Nations.\
+`importantvote` - vote identified as important by U.S. State Department report Voting Practices in the United Nations\
 &emsp;*NOTE: not available for all years*
 
 #### Issue codes:
