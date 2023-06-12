@@ -30,8 +30,10 @@ Project Theme:
 
 ## (3) Model Development & Analysis 
 
+check our code: 
+
  - Each time the UN General Assembly votes on an issue, each member should vote “yes” or “no”. Members can also vote “abstain” or be “absent”, etc. The adoption of the issue is then determined by whether “yes” outnumbers “no”. 
- - We form each UN member state (or part of them, depending on our capacity) into pairs, and the relationship of each country pair is measured by our “relationship score”. 
+ - We form each UN member state into pairs, and the relationship of each country pair is measured by our “relationship score”. 
  - At time 0, each pair has a score of 0. Each time the UN General Assembly has an issue to vote on, the pair may have agreeing or disagreeing votes. 
  - If the pair has agreeing votes (yes – yes, no – no), the score +1. If the pair has disagreeing votes (yes – no), the score –1. If any one of the pair is “absent”, “abstain”, etc., the score does not change. 
  - As time goes on, the score should accumulate, and reflect the relationship of the country pair. We rank the accumulated score for every pair and the pair with highest score is then our 2 countries of best relationship. Also, the pair with lowest score is having the worst relationship. 
