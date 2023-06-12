@@ -30,7 +30,9 @@ Project Theme:
 
 ## (3) Model Development & Analysis 
 
-check our code: 
+check our code: [RelationshipScore.ipynb](https://github.com/LuckYuanZ/CountryRelationByUnVotes/blob/main/RelationshipScore.ipynb)
+
+and data: [score.zip](https://github.com/LuckYuanZ/CountryRelationByUnVotes/blob/main/score.zip), [scoreSum.csv](https://github.com/LuckYuanZ/CountryRelationByUnVotes/blob/main/scoreSum.csv)
 
  - Each time the UN General Assembly votes on an issue, each member should vote “yes” or “no”. Members can also vote “abstain” or be “absent”, etc. The adoption of the issue is then determined by whether “yes” outnumbers “no”. 
  - We form each UN member state into pairs, and the relationship of each country pair is measured by our “relationship score”. 
