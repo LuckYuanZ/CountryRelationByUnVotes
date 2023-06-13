@@ -39,7 +39,7 @@ and data: [score.zip](https://github.com/LuckYuanZ/CountryRelationByUnVotes/blob
  - At time 0, each pair has a score of 0. Each time the UN General Assembly has an issue to vote on, the pair may have agreeing or disagreeing votes. 
  - If the pair has agreeing votes (yes – yes, no – no), the score +1. If the pair has disagreeing votes (yes – no), the score –1. If any one of the pair is “absent”, “abstain”, etc., the score does not change. 
  - As time goes on, the score should accumulate, and reflect the relationship of the country pair. We rank the accumulated score for every pair and the pair with highest score is then our 2 countries of best relationship. Also, the pair with lowest score is having the worst relationship. 
- - We would also be able to produce a graph showing how the scores change across history. We can then label important historical events on the graph and analysis the impact of those events on relationships between countries. 
+ - We would also be able to produce a [graph](https://github.com/LuckYuanZ/CountryRelationByUnVotes/blob/main/Visualization.ipynb) showing how the scores change across history. We can then label important historical events on the graph and analysis the impact of those events on relationships between countries. 
 
 ## (4) Results and Conclusions 
 
